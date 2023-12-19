@@ -1,2 +1,2 @@
 # CIFAR_repo
-Classification on CIFAR-10 dataset.
+Classification on the CIFAR-10 dataset.
