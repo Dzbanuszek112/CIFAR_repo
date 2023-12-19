@@ -1,2 +1,5 @@
 # To ignore Jupyter notebook checkpoints
 .ipynb_checkpoints
+
+# To ignore datasets files:
+data/
